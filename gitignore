@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Android
+android/
+.gradle/
+local.properties
+
+# iOS
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile
+
+# Logs and test files
+*.log
+*.test.js
+*.test.ts
+*.test.tsx
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db

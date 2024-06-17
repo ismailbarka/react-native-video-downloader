@@ -1,0 +1,66 @@
+# Dependencies
+node_modules/
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+*.log
+*.tmp
+*.temp
+
+# OS generated files
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+*.sw?
+
+# Build generated files
+android/app/build/
+android/build/
+android/.gradle
+android/captures/
+ios/build/
+ios/Pods/
+
+# Keystore files
+*.jks
+*.keystore
+*.p12
+
+# Bundle artifacts
+*.apk
+*.aab
+*.ipa
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Yarn
+yarn.lock
+.yarn-integrity
+.pnp.js
+.pnp.cjs
+.yarn/
+
+# Expo (if used)
+.expo/
+.webpack/
+.expo-shared/
+
+# dotenv
+.env
+.env.*
+!.env.example
